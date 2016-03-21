@@ -1,0 +1,45 @@
+body {
+	box-sizing: border-box;
+	font-size: 16px;
+}
+
+#navbar-nav {
+	background-color: #999999;
+
+}
+#navbar-brand h1{
+	color: #557c3e;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+#nav-list{
+	text-decoration: none;
+	list-style: none;
+	margin: 5px auto 5x;
+}
+#nav-list a{
+	text-align: center;
+}
+#nav-list li {
+
+}
+#main-content {
+	padding-top: 100px;
+}
+#main-content h2 {
+	text-align: center;
+}
+#main-tile{
+	/*border: 2px solid #3F0C1F;*/
+	background-color: #999999;
+}
+#main-tile h3 {
+	text-align: center;
+}
+#main-tile p {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
